@@ -23,3 +23,7 @@ wiki/tests/
 wiki/maintenance/
 
 wiki/mw-config/
+
+etc/nginx/log/
+
+wiki/LocalSettings.php
